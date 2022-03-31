@@ -19,7 +19,7 @@
  <!DOCTYPE html>
 <html>
 <head>
-	<title>Juice City</title>
+	<title>Juice city</title>
 </head>
 <body>
 
