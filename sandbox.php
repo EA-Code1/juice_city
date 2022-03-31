@@ -19,7 +19,7 @@
  <!DOCTYPE html>
 <html>
 <head>
-	<title>php tuts</title>
+	<title>Juice City</title>
 </head>
 <body>
 
