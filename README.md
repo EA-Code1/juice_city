@@ -3,13 +3,21 @@ A simple PHP website where you can add new juice drink and delete a juice drink 
 
 # Images below.
 
-<img src="juice-img/orderform.jpg" width="600">
+<img src="juice-img/orderform.jpg" width="550">  
 
-<img src="juice-img/juiceop.jpg" width="600">
+<img src="juice-img/juiceop.jpg" width="550">
 
-<img src="juice-img/infopageorder.jpg" width="600">
+<img src="juice-img/infopageorder.jpg" width="550">
 
-<img src="juice-img/juicesdb.jpg" width="600">
+<img src="juice-img/juicesdb.jpg" width="550">
+
+<img src="juice-img/juice.gif" width="550">
+
+<img src="juice-img/juice1.gif" width="550">
+
+<img src="juice-img/juice2.gif" width="550">
+
+<img src="juice-img/juice3.gif" width="550">
 
 # About
 
