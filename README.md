@@ -1,7 +1,7 @@
 # juice_city
 A simple PHP website where you can add new juice drink and delete a juice drink which will be stored in a MySQL database.
 
-# Images Gifs below.
+# Images and Gifs below.
 
 <img src="juice-img/orderform.jpg" width="550">  
 
